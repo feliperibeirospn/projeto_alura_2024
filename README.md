@@ -1,6 +1,6 @@
 # Projeto meu AIssistente de idiomas
 
-Bem-vindo ao Projeto Alura 2024! Este projeto é uma iniciativa para ajudar no aprendizado de idiomas de forma interativa e divertida.
+Bem-vindo, Este projeto é uma iniciativa para ajudar no aprendizado de idiomas de forma interativa e divertida.
 
 ## Sobre o Projeto
 
