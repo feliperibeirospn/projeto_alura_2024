@@ -1,10 +1,10 @@
-# Projeto Alura 2024
+# Projeto meu AIssistente de idiomas
 
 Bem-vindo ao Projeto Alura 2024! Este projeto é uma iniciativa para ajudar no aprendizado de idiomas de forma interativa e divertida.
 
 ## Sobre o Projeto
 
-O Projeto Alura 2024 é uma plataforma de aprendizado de idiomas que utiliza técnicas de processamento de linguagem natural para proporcionar uma experiência de aprendizado personalizada. Neste projeto, os usuários podem avaliar seu nível de proficiência no idioma escolhido e desfrutar de histórias curtas geradas automaticamente, que visam expandir seu vocabulário e compreensão do idioma.
+O AIssistente de idiomas é uma plataforma de aprendizado de idiomas que utiliza técnicas de processamento de linguagem natural para proporcionar uma experiência de aprendizado personalizada. Neste projeto, os usuários podem avaliar seu nível de proficiência no idioma escolhido e desfrutar de histórias curtas geradas automaticamente, que visam expandir seu vocabulário e compreensão do idioma.
 
 ## Funcionalidades
 
